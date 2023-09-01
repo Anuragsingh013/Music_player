@@ -53,7 +53,7 @@ let musics = [
   {
         trackName: "All black",
         artist: "Anurag",
-        album: "Bhiyariya mod",
+        album: "Bhiariya mod",
         coverImage: "https://cover.mr-jatt.im/thumb/17607/All-Black-Ft-Raftaar-1.jpg",
         audioSource:"https://pwdown.info/9529/All Black - Raftaar n Sukh-E Musical Doctorz 320kbps.mp3"
     },
