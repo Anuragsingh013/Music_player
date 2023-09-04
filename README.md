@@ -1,2 +1,2 @@
 # Music_player
-#this is a music player created with the help of vanilla js 
+This is a music player created with the help of vanilla js 
